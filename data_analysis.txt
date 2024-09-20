@@ -1,0 +1,3 @@
+echo "Initiating data collection for the machine learning project."
+echo "Data_processing is crucial for accurate model predictions."
+
